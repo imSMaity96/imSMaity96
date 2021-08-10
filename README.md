@@ -1,4 +1,6 @@
 ### Hi :wave:, I'm Somnath
+### Things I'm Good at :fire:
+**Languages :** Python, SQL, Java, HTML.
 ### Connect with Me :link:
 <p>Known on Internet as <a href="https://www.google.com/search?q=imSMaity96">imSMaity96</a></p>
 <a href="https://api.whatsapp.com/send/?phone=918777260977"><img align="center" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png" /></a>
