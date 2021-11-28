@@ -6,4 +6,4 @@
 <a href="https://api.whatsapp.com/send/?phone=918777260977"><img align="center" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png" /></a>
 <a href="https://www.linkedin.com/in/imsmaity96/"><img align="center" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png" /></a>
 <a href="https://www.kaggle.com/imsmaity96"><img align="center" src="https://img.icons8.com/windows/64/4a90e2/kaggle.png" /></a>
-<a href="https://www.somnathmaity.me"><img align="center" src="https://img.icons8.com/dusk/64/000000/domain.png" /></a>
+<a href="https://www.somnathmaity.com"><img align="center" src="https://img.icons8.com/dusk/64/000000/domain.png" /></a>
